@@ -64,7 +64,7 @@ input[type=date]
 {
     color: white;        
 }
-input[type=time]
+input[type=time] 
 {
    color: white;
 }
@@ -180,6 +180,10 @@ input[type=time]
 </div>
 </body>
 </html>
+<<<<<<< HEAD:pages/index.php
+=======
+
+>>>>>>> e22bd2fcc42d3ac34393d35a892b9561ef3084c7:pages/index.php
 <?php
 include("footer.php");
 ?>
