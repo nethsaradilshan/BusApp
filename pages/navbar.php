@@ -11,6 +11,7 @@
             <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
     </head>
      <body>
+     <header>
     <section id="navbar">
          <nav class="navbar navbar-expand-lg navbar-light">
           <a class="navbar-brand" href="#"><img src="../img/YASHbus.png"></a>
@@ -59,5 +60,6 @@
           </div>
          </nav>
         </section>
+        </header>
     </body>
 </html>

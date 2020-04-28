@@ -1,3 +1,7 @@
+<?php
+include("navbar.php");
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +11,6 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  <meta name='viewport' content='width=device-width, initial-scale=1'>
   <script src='https://kit.fontawesome.com/a076d05399.js'></script>
   <link rel="stylesheet" href="../css/bootstrap-datepicker.css">
   <script type="text/javascript" src="../bootstrap/bootstrap-datepicker.js"></script>
@@ -30,7 +33,7 @@
 {
     margin-left: -30px;
     height: 70px;
-    width: 980px;
+    width: 100%;
     border: none;
     padding: 5px 0px;
     background-color: white;
@@ -92,7 +95,9 @@ input[type=time]
    position: relative;
    left: 30%;
    bottom: 54.5%;
-    padding: 0;
+   padding: 0;
+   
+
 }
 .bor_3
 {
@@ -175,3 +180,6 @@ input[type=time]
 </div>
 </body>
 </html>
+<?php
+include("footer.php");
+?>

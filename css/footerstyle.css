@@ -3,7 +3,7 @@ body {
     padding: 0;
 }
 footer{
-    position: fixed;
+    position: relative;
     bottom: 0;
 }
 .footer-distributed{
@@ -13,6 +13,8 @@ footer{
     width: 100%;
     text-align: left;
     font: bold 16px sans-serif;
+    display: inline-block;
+
  
     padding: 55px 50px;
     margin-top: 80px;

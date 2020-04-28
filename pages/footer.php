@@ -15,7 +15,7 @@
  
 </head>
  
-  <body>
+  
     <footer class="footer-distributed">
  
     <div class="footer-left">
@@ -70,7 +70,5 @@
     </div>
  
     </footer>
- 
-  </body>
  
 </html>

@@ -98,6 +98,10 @@ input, select {
 #navbar 
 {
    background-color: #67B8EF; 
+   display: inline-block;
+   width: 100%;
+   position: fixed;
+
 
 }
 #navbar ul li a
