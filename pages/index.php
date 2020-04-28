@@ -1,3 +1,7 @@
+<?php
+include("navbar.php");
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -175,3 +179,7 @@ input[type=time]
 </div>
 </body>
 </html>
+
+<?php
+include("footer.php");
+?>
